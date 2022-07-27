@@ -1,0 +1,15 @@
+1) What is SSH?
+>  SSH, also known as Secure Shell  is a network communication protocol that enables two computers to communicate(hypertext transfer protocol , which is the protocol used to transfer hypertext such as web pages) and share data.
+
+  SSH connections have mostly been used to secure different types of communications between local machine and a remote host, including:
+. Secure a remote access to resources.
+. Remote execution of commands.
+. Interactive and automated file transfer.
+. Delivery of software patches and updates.
+
+
+2) types of SSH.
+>  . DSA(no longer allowed by default in open 7.0+)
+    . RSA
+    . ECDSA(open SSH 5.7+)
+    . ed25519(open SSH6.5+) 
